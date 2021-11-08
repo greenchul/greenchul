@@ -1,12 +1,14 @@
 ### Hi, I'm Rachel. Aspiring Software Developer, cat enthusiast, Sailor. 👋
 
+
+- 🔭 I’m currently enrolled on the Manchester Codes Software Engineer FastTrack Course
+- 🌱 I’m currently learning JavaScript!
 <!--
 **greenchul/greenchul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
