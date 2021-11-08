@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning JavaScript!
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greenchul&layout=compact&hide=shaderlab,c#)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greenchul&layout=compact&hide=shaderlab,c%23)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
