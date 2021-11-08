@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Rachel. Aspiring Software Developer, cat enthusiast, Sailor. 👋
 
 <!--
 **greenchul/greenchul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
