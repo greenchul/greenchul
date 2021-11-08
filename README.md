@@ -1,9 +1,9 @@
 ###  👋 Hi, I'm Rachel. Aspiring Software Developer, cat enthusiast, Sailor.
 
 
-- 🔭 I’m currently enrolled on the Manchester Codes Software Engineer FastTrack Course
-- 🌱 I’m learning JavaScript!
-- :anchor:Currently serving in the Royal Navy
+- :books: &nbsp; I’m currently enrolled on the Manchester Codes Software Engineer FastTrack Course
+- 🌱 &nbsp;Learning JavaScript!
+- :anchor:&nbsp; Currently serving in the Royal Navy
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greenchul&layout=compact&hide=shaderlab,c%23&card_width=600&bg_color=2f324f&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
