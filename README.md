@@ -1,4 +1,4 @@
-### 👋 &nbsp; Hi, I'm Rachel. Aspiring Software Developer, Cat Enthusiast, Sailor.
+### 👋 &nbsp; Hi, I'm Rachel. Aspiring Software Developer, Cat Enthusiast, Sailor!
 
 - :books: &nbsp; I’m currently enrolled on the Manchester Codes Software Engineer FastTrack Course
 - 🌱 &nbsp;Learning React!
