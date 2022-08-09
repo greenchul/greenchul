@@ -1,9 +1,9 @@
 ### 👋 &nbsp; Hi, I'm Rachel.
 
-- :books: &nbsp; I’m currently enrolled on the Manchester Codes Software Engineer FastTrack Course
+- :books: &nbsp; React | JavaScript | Python | AWS
 - :abacus: &nbsp; Associate Consultant @ Infinity Works
-- 🌱 &nbsp; Learning React!
-- :woman_technologist: &nbsp; d-t squad student. Learning to code with veterans and service leavers
+- 🌱 &nbsp; AWS Cloud Practitioner Certified
+- :woman_technologist: &nbsp; Back End Tutor @ Manchester Codes
 - :anchor: &nbsp; Ex Royal Navy
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greenchul&layout=compact&hide=shaderlab,c%23&card_width=600&bg_color=2f324f&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
