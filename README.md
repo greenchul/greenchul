@@ -1,7 +1,7 @@
 ### 👋 &nbsp; Hi, I'm Rachel.
 
 - :books: &nbsp; React | JavaScript | Python | AWS
-- :abacus: &nbsp; Associate Consultant @ Infinity Works
+- :abacus: &nbsp; Software Engineer @ BAE Digital Intelligence
 - 🌱 &nbsp; AWS Cloud Practitioner Certified
 - :woman_technologist: &nbsp; Back End Tutor @ Manchester Codes
 - :anchor: &nbsp; Ex Royal Navy
