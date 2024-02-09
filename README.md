@@ -3,7 +3,6 @@
 - :books: &nbsp; React | JavaScript | Python | AWS
 - :abacus: &nbsp; Software Engineer @ BAE Digital Intelligence
 - 🌱 &nbsp; AWS Cloud Practitioner Certified
-- :woman_technologist: &nbsp; Back End Tutor @ Manchester Codes
 - :anchor: &nbsp; Ex Royal Navy
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greenchul&layout=compact&hide=shaderlab,c%23&card_width=600&bg_color=2f324f&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
